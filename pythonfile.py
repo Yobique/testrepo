@@ -1,0 +1,2 @@
+#Wow
+print("Sample Text")
